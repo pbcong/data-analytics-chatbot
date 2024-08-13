@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pbcon/Desktop/data-analytics-chatbot/mlruns/859762160899425210/1a04c482342a4f54a34b58e304b31db3/artifacts
+end_time: 1723567168494
+entry_point_name: ''
+experiment_id: '859762160899425210'
+lifecycle_stage: active
+run_id: 1a04c482342a4f54a34b58e304b31db3
+run_name: Quadratic Discriminant Analysis
+run_uuid: 1a04c482342a4f54a34b58e304b31db3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567168311
+status: 3
+tags: []
+user_id: pbcon

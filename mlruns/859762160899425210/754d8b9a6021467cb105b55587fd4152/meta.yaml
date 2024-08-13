@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pbcon/Desktop/data-analytics-chatbot/mlruns/859762160899425210/754d8b9a6021467cb105b55587fd4152/artifacts
+end_time: 1723567278333
+entry_point_name: ''
+experiment_id: '859762160899425210'
+lifecycle_stage: active
+run_id: 754d8b9a6021467cb105b55587fd4152
+run_name: Extra Trees Classifier
+run_uuid: 754d8b9a6021467cb105b55587fd4152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567278132
+status: 3
+tags: []
+user_id: pbcon

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pbcon/Desktop/data-analytics-chatbot/mlruns/859762160899425210/9c4e580d49da4d128ad75fbe2a8d80bf/artifacts
+end_time: 1723567915268
+entry_point_name: ''
+experiment_id: '859762160899425210'
+lifecycle_stage: active
+run_id: 9c4e580d49da4d128ad75fbe2a8d80bf
+run_name: Bayesian Ridge
+run_uuid: 9c4e580d49da4d128ad75fbe2a8d80bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567914990
+status: 3
+tags: []
+user_id: pbcon

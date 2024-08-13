@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pbcon/Desktop/data-analytics-chatbot/mlruns/859762160899425210/47e21b81609c4d9c9ce87008565158c9/artifacts
+end_time: 1723566490753
+entry_point_name: ''
+experiment_id: '859762160899425210'
+lifecycle_stage: active
+run_id: 47e21b81609c4d9c9ce87008565158c9
+run_name: Session Initialized 5e6a
+run_uuid: 47e21b81609c4d9c9ce87008565158c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723566474432
+status: 3
+tags: []
+user_id: pbcon

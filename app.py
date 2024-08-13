@@ -7,6 +7,7 @@ import os
 from langchain.agents.agent_types import AgentType
 from langchain_experimental.agents.agent_toolkits import create_pandas_dataframe_agent
 from utils import process_query, show_chat_history
+
 dotenv.load_dotenv(".env", override=True)
 
 st.session_state['llm'] = ChatOpenAI(model="gpt-3.5-turbo", api_key=os.environ['OPEN_AI_API'])

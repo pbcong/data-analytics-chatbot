@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pbcon/Desktop/data-analytics-chatbot/mlruns/859762160899425210/12e32faad5ea43658bc534fd7de4bd65/artifacts
+end_time: 1723567358664
+entry_point_name: ''
+experiment_id: '859762160899425210'
+lifecycle_stage: active
+run_id: 12e32faad5ea43658bc534fd7de4bd65
+run_name: Linear Discriminant Analysis
+run_uuid: 12e32faad5ea43658bc534fd7de4bd65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567358410
+status: 3
+tags: []
+user_id: pbcon

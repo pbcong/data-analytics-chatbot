@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pbcon/Desktop/data-analytics-chatbot/mlruns/859762160899425210/dabfb46b11694b4890566f1f8cdb0b44/artifacts
+end_time: 1723567157098
+entry_point_name: ''
+experiment_id: '859762160899425210'
+lifecycle_stage: active
+run_id: dabfb46b11694b4890566f1f8cdb0b44
+run_name: Gradient Boosting Classifier
+run_uuid: dabfb46b11694b4890566f1f8cdb0b44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567156872
+status: 3
+tags: []
+user_id: pbcon

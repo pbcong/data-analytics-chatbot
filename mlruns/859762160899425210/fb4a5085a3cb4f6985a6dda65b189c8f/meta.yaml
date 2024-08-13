@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pbcon/Desktop/data-analytics-chatbot/mlruns/859762160899425210/fb4a5085a3cb4f6985a6dda65b189c8f/artifacts
+end_time: 1723567169201
+entry_point_name: ''
+experiment_id: '859762160899425210'
+lifecycle_stage: active
+run_id: fb4a5085a3cb4f6985a6dda65b189c8f
+run_name: Light Gradient Boosting Machine
+run_uuid: fb4a5085a3cb4f6985a6dda65b189c8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567168979
+status: 3
+tags: []
+user_id: pbcon

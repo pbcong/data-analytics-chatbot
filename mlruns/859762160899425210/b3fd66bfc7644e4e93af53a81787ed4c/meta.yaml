@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pbcon/Desktop/data-analytics-chatbot/mlruns/859762160899425210/b3fd66bfc7644e4e93af53a81787ed4c/artifacts
+end_time: 1723567910835
+entry_point_name: ''
+experiment_id: '859762160899425210'
+lifecycle_stage: active
+run_id: b3fd66bfc7644e4e93af53a81787ed4c
+run_name: Least Angle Regression
+run_uuid: b3fd66bfc7644e4e93af53a81787ed4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567910530
+status: 3
+tags: []
+user_id: pbcon

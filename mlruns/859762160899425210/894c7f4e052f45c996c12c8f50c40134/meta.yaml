@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pbcon/Desktop/data-analytics-chatbot/mlruns/859762160899425210/894c7f4e052f45c996c12c8f50c40134/artifacts
+end_time: 1723567361614
+entry_point_name: ''
+experiment_id: '859762160899425210'
+lifecycle_stage: active
+run_id: 894c7f4e052f45c996c12c8f50c40134
+run_name: Ada Boost Classifier
+run_uuid: 894c7f4e052f45c996c12c8f50c40134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567361299
+status: 3
+tags: []
+user_id: pbcon

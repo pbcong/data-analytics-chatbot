@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pbcon/Desktop/data-analytics-chatbot/mlruns/859762160899425210/3ac8f1ec3f1048c798e102b979a1fa4a/artifacts
+end_time: 1723567090254
+entry_point_name: ''
+experiment_id: '859762160899425210'
+lifecycle_stage: active
+run_id: 3ac8f1ec3f1048c798e102b979a1fa4a
+run_name: Naive Bayes
+run_uuid: 3ac8f1ec3f1048c798e102b979a1fa4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567090064
+status: 3
+tags: []
+user_id: pbcon

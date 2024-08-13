@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pbcon/Desktop/data-analytics-chatbot/mlruns/859762160899425210/04dacbed825d4164893928f91705b671/artifacts
+end_time: 1723567909276
+entry_point_name: ''
+experiment_id: '859762160899425210'
+lifecycle_stage: active
+run_id: 04dacbed825d4164893928f91705b671
+run_name: Lasso Regression
+run_uuid: 04dacbed825d4164893928f91705b671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567908983
+status: 3
+tags: []
+user_id: pbcon

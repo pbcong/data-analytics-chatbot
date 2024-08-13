@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pbcon/Desktop/data-analytics-chatbot/mlruns/859762160899425210/941d87345cc648cc836a5939cb7fc1b7/artifacts
+end_time: 1723567153763
+entry_point_name: ''
+experiment_id: '859762160899425210'
+lifecycle_stage: active
+run_id: 941d87345cc648cc836a5939cb7fc1b7
+run_name: Random Forest Classifier
+run_uuid: 941d87345cc648cc836a5939cb7fc1b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567153325
+status: 3
+tags: []
+user_id: pbcon

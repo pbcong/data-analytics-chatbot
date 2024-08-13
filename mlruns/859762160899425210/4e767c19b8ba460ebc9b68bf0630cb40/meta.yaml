@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pbcon/Desktop/data-analytics-chatbot/mlruns/859762160899425210/4e767c19b8ba460ebc9b68bf0630cb40/artifacts
+end_time: 1723567172436
+entry_point_name: ''
+experiment_id: '859762160899425210'
+lifecycle_stage: active
+run_id: 4e767c19b8ba460ebc9b68bf0630cb40
+run_name: SVM - Linear Kernel
+run_uuid: 4e767c19b8ba460ebc9b68bf0630cb40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567172217
+status: 3
+tags: []
+user_id: pbcon

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pbcon/Desktop/data-analytics-chatbot/mlruns/859762160899425210/fa215a95859b402c90206a02128bb95b/artifacts
+end_time: 1723567638887
+entry_point_name: ''
+experiment_id: '859762160899425210'
+lifecycle_stage: active
+run_id: fa215a95859b402c90206a02128bb95b
+run_name: Decision Tree Regressor
+run_uuid: fa215a95859b402c90206a02128bb95b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567638677
+status: 3
+tags: []
+user_id: pbcon

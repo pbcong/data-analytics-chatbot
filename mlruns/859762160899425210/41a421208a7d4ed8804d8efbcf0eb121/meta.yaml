@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pbcon/Desktop/data-analytics-chatbot/mlruns/859762160899425210/41a421208a7d4ed8804d8efbcf0eb121/artifacts
+end_time: 1723567361111
+entry_point_name: ''
+experiment_id: '859762160899425210'
+lifecycle_stage: active
+run_id: 41a421208a7d4ed8804d8efbcf0eb121
+run_name: Decision Tree Classifier
+run_uuid: 41a421208a7d4ed8804d8efbcf0eb121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567360823
+status: 3
+tags: []
+user_id: pbcon
