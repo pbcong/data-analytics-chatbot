@@ -1,7 +1,7 @@
 import streamlit as st
 
 if 'df' in st.session_state:
-    st.dataframe(st.session_state['df'])
+    st.dataframe(st.session_state['df'].head(), use_container_width=True)
     target = 0
     with st.sidebar:
         problem = st.selectbox("Problem type:", ["Regression", "Classification"])
@@ -27,18 +27,15 @@ if 'df' in st.session_state:
                 setup(
                     data=st.session_state["df"],
                     target=target,
+                    train_size=0.8,
                     session_id=42,
                     ignore_features=["id"],
-                    fold=5,
-                    fold_strategy="stratifiedkfold",
-                    log_experiment=True,
-                    experiment_name="classification",
                 )
             
                 best_model = compare_models()
                 compare_df = pull()
 
-        st.dataframe(compare_df)
+        st.dataframe(compare_df, use_container_width=True)
 
         st.write(best_model)
         save_model(best_model, 'best_model')

@@ -23,8 +23,9 @@ with st.sidebar:
     df = st.file_uploader("Upload a file", type = ['csv'])
 
 
-if df:
-    st.session_state['df'] = pd.read_csv(df) 
+if df or 'df' in st.session_state:
+    if df:
+        st.session_state['df'] = pd.read_csv(df) 
     st.table(st.session_state['df'].head())
     st.session_state['agent'] = create_pandas_dataframe_agent(llm=st.session_state['llm'], agent_type='tool-calling', df=st.session_state['df'], verbose=True, allow_dangerous_code=True, return_intermediate_steps=True)
 
