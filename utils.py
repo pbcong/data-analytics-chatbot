@@ -28,10 +28,11 @@ def process_query(agent, query):
         fig = exec_code(code, st.session_state["df"])
         with st.chat_message("AI"):
             st.write(response["output"])
+            st.code(code)
             if fig:
                 st.pyplot(fig)
 
-        st.code(code)
+        
         st.session_state.conversations.append(
             (
                 {
@@ -46,7 +47,8 @@ def process_query(agent, query):
         )
 
     else:
-        st.write(response["output"])
+        with st.chat_message("AI"):
+            st.write(response["output"])
         st.session_state.conversations.append(
             ({"role": "AI", "content": response["output"]}, 0)
         )
